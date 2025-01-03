@@ -58,3 +58,5 @@
 ---
 
 🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
+
+![snake gif](https://github.com/ConceicaoD10/ConceicaoD10/blob/output/github-contribution-grid-snake.gif)
