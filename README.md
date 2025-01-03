@@ -24,9 +24,6 @@
 ## 🛠️ Tecnologias que eu uso
 
 <div style="display: inline_block">
-  <img align="center" alt="CCNA" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Cisco_CCNA_logo.svg">
-  <img align="center" alt="CCNP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Cisco_CCNP_logo.svg">
-  <img align="center" alt="SD-WAN" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Cisco_SDWAN_logo.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
