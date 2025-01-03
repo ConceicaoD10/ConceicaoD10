@@ -1,14 +1,14 @@
 # Danilo-Concei-o
-🌐 Olá, Rede!  
+# 👋 Olá, eu sou o Danilo Conceição!
 
-👋 Bem-vindos ao meu repositório!  
-📚 Aqui compartilho laboratórios, projetos e experiências enquanto construo minha jornada no mundo das redes.  
-💡 Certificado CCNA e CCNP, atualmente focado na certificação SD-WAN.  
-🌟 Apaixonado por infraestrutura de redes e soluções inovadoras.  
+🌐 **Especialista em Infraestrutura de Redes e Segurança**  
+💡 Certificado CCNA, CCNP e atualmente focado na certificação SD-WAN.  
+🚀 Apaixonado por construir soluções inovadoras para redes de computadores e infraestrutura.  
+📚 Compartilho meus laboratórios, projetos e aprendizados aqui no meu GitHub.
 
-🚀 Vamos explorar juntos!
+---
 
-## Certificações
+## 📚 Certificações
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://images.credly.com/size/340x340/images/8b0ca811-bd98-4083-ba50-512ab9f6262b/CCNPENCOR__1_.png" height="80" style="margin-right: 10px;">
@@ -19,7 +19,22 @@
   <img src="https://images.credly.com/size/340x340/images/58c6a1ff-4788-4be9-a71e-7643ec7d72e8/2ccb2ec4-fc30-4498-abef-1d1c05637fab.png" height="80">
 </div>
 
-## Contatos
+---
+
+## 🛠️ Tecnologias que eu uso
+
+<div style="display: inline_block">
+  <img align="center" alt="CCNA" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Cisco_CCNA_logo.svg">
+  <img align="center" alt="CCNP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Cisco_CCNP_logo.svg">
+  <img align="center" alt="SD-WAN" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Cisco_SDWAN_logo.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+## 🌍 Vamos conectar?
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="https://github.com/ConceicaoD10" target="_blank">
@@ -32,3 +47,17 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConceicaoD10&show_icons=true&theme=radical)
+
+---
+
+⚡ Fun fact: Quando não estou trabalhando com redes, estou aprendendo novas tecnologias e sempre em busca de maneiras inovadoras de resolver problemas!
+
+---
+
+🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
