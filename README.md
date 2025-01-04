@@ -65,46 +65,38 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
-        <br>HTML5
+        <img src="https://via.placeholder.com/50" alt="SD-WAN" />
+        <br>SD-WAN
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
-        <br>CSS3
+        <img src="https://via.placeholder.com/50" alt="ACI" />
+        <br>ACI
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-        <br>JavaScript
+        <img src="https://via.placeholder.com/50" alt="VMware" />
+        <br>VMware
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-        <br>Docker
+        <img src="https://via.placeholder.com/50" alt="BGP" />
+        <br>BGP
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-        <br>Git
+        <img src="https://via.placeholder.com/50" alt="MPLS" />
+        <br>MPLS
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-        <br>Linux
+        <img src="https://via.placeholder.com/50" alt="QoS" />
+        <br>QoS
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-        <br>MySQL
+        <img src="https://via.placeholder.com/50" alt="VLAN" />
+        <br>VLAN
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" alt="NGINX" />
-        <br>NGINX
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />
-        <br>Kubernetes
+        <img src="https://via.placeholder.com/50" alt="Roteamento" />
+        <br>Roteamento
       </td>
     </tr>
   </table>
