@@ -58,6 +58,19 @@
 
 ---
 
+## 🌍 Vamos conectar?
+
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <a href="https://github.com/ConceicaoD10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:daniloideconceicao@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/danilo-conceição" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 
 ---
@@ -71,23 +84,7 @@
 ---
 
 
-## 🌍 Vamos conectar?
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <a href="https://github.com/ConceicaoD10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-<a href="mailto:daniloideconceicao@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-  </a>
-  <a href="https://www.linkedin.com/in/danilo-conceição" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  </a>
-</div>
 
 
 ⚡ Fun fact: Quando não estou trabalhando com redes, estou aprendendo novas tecnologias e sempre em busca de maneiras inovadoras de resolver problemas!
