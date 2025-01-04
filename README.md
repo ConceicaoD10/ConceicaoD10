@@ -58,18 +58,6 @@
 
 ---
 
-<style>
-  @media (max-width: 768px) {
-    .content {
-      display: block;
-      text-align: center;
-    }
-
-    .technologies img {
-      margin: 5px 0;
-    }
-  }
-</style>
 
 
 ---
