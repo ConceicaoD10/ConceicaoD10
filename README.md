@@ -23,18 +23,15 @@
 
 ## 🛠️ Tecnologias que eu uso
 
-<div style="display: inline-block; margin-right: 20px">
+<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px">
   <!-- Ícones de Programação e Ferramentas -->
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-<p align="left">
-  <!-- Ícones de Redes e Infraestrutura -->
   <img align="center" alt="VMware" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg">
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</p>
+</div>
+
 
 
 ---
