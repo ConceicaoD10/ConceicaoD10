@@ -34,10 +34,6 @@
   <img align="center" alt="VMware" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg">
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="BGP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bgp/bgp-original.svg">
-  <img align="center" alt="SD-WAN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sd-wan/sd-wan-original.svg">
-  <img align="center" alt="MPLS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mpls/mpls-original.svg">
-  <img align="center" alt="QOS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qos/qos-original.svg">
 </p>
 
 
