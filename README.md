@@ -23,16 +23,23 @@
 
 ## 🛠️ Tecnologias que eu uso
 
-<div style="display: inline_block">
+<div style="display: inline-block; margin-right: 20px">
+  <!-- Ícones de Programação e Ferramentas -->
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
 <p align="left">
-  <!-- Ícones de redes e infraestrutura -->
-  <i class="devicon-vsphere-line-wordmark colored"></i>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-</p><i class="devicon-vsphere-line-wordmark colored"></i>
+  <!-- Ícones de Redes e Infraestrutura -->
+  <img align="center" alt="VMware" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="BGP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bgp/bgp-original.svg">
+  <img align="center" alt="SD-WAN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sd-wan/sd-wan-original.svg">
+  <img align="center" alt="MPLS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mpls/mpls-original.svg">
+  <img align="center" alt="QOS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qos/qos-original.svg">
+</p>
+
 
 ---
 
