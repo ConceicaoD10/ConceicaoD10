@@ -59,45 +59,10 @@
 
 🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
 
-## 🛠️ Tecnologias que Uso
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="SD-WAN" />
-        <br>SD-WAN
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="ACI" />
-        <br>ACI
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="VMware" />
-        <br>VMware
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="BGP" />
-        <br>BGP
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="MPLS" />
-        <br>MPLS
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="QoS" />
-        <br>QoS
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="VLAN" />
-        <br>VLAN
-      </td>
-      <td align="center" width="140">
-        <img src="https://via.placeholder.com/50" alt="Roteamento" />
-        <br>Roteamento
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="left">Tecnologias que eu uso</h2>
+<p align="left">
+  <!-- Ícones de redes e infraestrutura -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</p>
