@@ -29,7 +29,7 @@
 </div>
 <p align="left">
   <!-- Ícones de redes e infraestrutura -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>
+  <i class="devicon-vsphere-line-wordmark colored"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </p>
@@ -64,5 +64,5 @@
 
 🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
 
-<h2 align="left">Tecnologias que eu uso</h2>
+
 
