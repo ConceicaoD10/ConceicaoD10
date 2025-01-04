@@ -59,4 +59,22 @@
 
 🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
 
-![snake gif](https://github.com/ConceicaoD10/ConceicaoD10/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <svg width="400" height="200">
+    <!-- Roteador 1 -->
+    <rect x="30" y="80" width="60" height="40" fill="#007ACC" rx="5" ry="5"></rect>
+    <text x="60" y="105" fill="#ffffff" font-size="14" text-anchor="middle">Router 1</text>
+
+    <!-- Roteador 2 -->
+    <rect x="310" y="80" width="60" height="40" fill="#007ACC" rx="5" ry="5"></rect>
+    <text x="340" y="105" fill="#ffffff" font-size="14" text-anchor="middle">Router 2</text>
+
+    <!-- Linha entre os roteadores -->
+    <line x1="90" y1="100" x2="310" y2="100" stroke="#000000" stroke-width="2"></line>
+
+    <!-- Pacote animado -->
+    <circle cx="90" cy="100" r="8" fill="#FF5733">
+      <animate attributeName="cx" from="90" to="310" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</div>
