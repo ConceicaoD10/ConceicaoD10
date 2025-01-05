@@ -1,6 +1,6 @@
 # Danilo Conceição
 
-# 👋 Olá, eu sou o Danilo Conceição!
+# 👋 Olá, sou o Danilo Conceição!
 
 🌐 Especialista em Infraestrutura de Redes e Segurança  
 💡 Certificado CCNA, CCNP e atualmente focado na certificação SD-WAN.  
