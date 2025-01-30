@@ -77,3 +77,8 @@
 - [Artigo sobre Redes Avançadas](link_do_artigo) - Discussão sobre protocolos avançados de redes.
 
 🚀 Agradeço pela visita! Fique à vontade para explorar meus projetos. 🙂
+
+
+git add .
+git commit -m "Adicionando arquivos do laboratório"
+git push origin main
