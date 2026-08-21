@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Certificado+CCNA+%26+CCNP;Em+prepara%C3%A7%C3%A3o+para+SD-WAN;Especialista+em+Redes+%26+Seguran%C3%A7a;Apaixonado+por+Infraestrutura+de+TI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Certificado+Cisco+CCNA+Automation+(DevNet);7%2B+anos+em+Infraestrutura+de+Redes;Especialista+em+Firewalls+FortiGate;Apaixonado+por+Network+Automation" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -42,13 +42,13 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 
 ## 👤 Sobre Mim
 
-Sou especialista em **Infraestrutura de Redes e Segurança**, com formação sólida em roteamento, comutação e proteção de ambientes corporativos. Trabalho construindo redes mais robustas, seguras e escaláveis, sempre com foco em boas práticas de mercado e automação de processos.
+Profissional de Tecnologias de Informação com mais de 7 anos de experiência na administração de infraestruturas, redes e sistemas em ambientes empresariais. Especializado na análise, otimização e reestruturação de redes complexas, garantindo implementações seguras e continuidade operacional. Experiência em Routing, Switching, BGP, MPLS, VLANs, Microsoft 365 e MikroTik.
 
-Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar minha atuação em arquiteturas de rede modernas e definidas por software.
+Certificado **Cisco CCNA Automation (DevNet Associate)**, com forte interesse em Network Automation, Infrastructure as Code e tecnologias de Service Provider. Apaixonado por resolver problemas, otimizar infraestruturas e implementar soluções tecnológicas que aumentam a eficiência e a fiabilidade dos ambientes de TI.
 
-- 🔭 Focado atualmente em obter a certificação **SD-WAN**
+- 🔭 Treinamento em **Cisco SD-WAN** (fora do escopo de certificação no momento)
 - 🌱 Aprendendo continuamente sobre automação de redes com **Python**
-- 🛡️ Interesse principal em segurança de perímetro e infraestrutura corporativa
+- 🛡️ Foco principal em segurança de perímetro com **firewalls FortiGate**
 - 💬 Disponível para trocar ideias sobre redes, segurança e infraestrutura
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
