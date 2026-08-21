@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Danilo%20Conceição&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Especialista%20em%20Infraestrutura%20de%20Redes%20e%20Segurança&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/danilo-conceição/" target="_blank">
-<img src="https://raw.githubusercontent.com/ConceicaoD10/ConceicaoD10/main/IMG-20260221-WA0062.jpg" width="170" height="170" style="border-radius:50%;border:4px solid #2C5364;" alt="Danilo Conceição"/>
+<img src="https://raw.githubusercontent.com/ConceicaoD10/ConceicaoD10/main/IMG-20260221-WA0062.jpg" width="230" height="230" style="border-radius:50%;border:5px solid #2C5364;object-fit:cover;" alt="Danilo Conceição"/>
 </a>
 
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Certificado+CCNA+%26+CCNP;Em+prepara%C3%A7%C3%A3o+para+SD-WAN;Especialista+em+Redes+%26+Seguran%C3%A7a;Apaixonado+por+Infraestrutura+de+TI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Certificado+CCNA+%26+CCNP;Em+prepara%C3%A7%C3%A3o+para+SD-WAN;Especialista+em+Redes+%26+Seguran%C3%A7a;Apaixonado+por+Infraestrutura+de+TI" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -44,29 +44,25 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/8b0ca811-bd98-4083-ba50-512ab9f6262b/CCNPENCOR__1_.png" width="100"/><br>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/8b0ca811-bd98-4083-ba50-512ab9f6262b/CCNPENCOR__1_.png" width="110"/><br>
 <sub><b>CCNP ENCOR</b></sub>
 </td>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/3bb1a127-e4e4-47ac-b83f-6a9fbf343f00/CCNP_ENARSI.png" width="100"/><br>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/3bb1a127-e4e4-47ac-b83f-6a9fbf343f00/CCNP_ENARSI.png" width="110"/><br>
 <sub><b>CCNP ENARSI</b></sub>
 </td>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="100"/><br>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="110"/><br>
 <sub><b>CCNA SRWE</b></sub>
 </td>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"/><br>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110"/><br>
 <sub><b>CCNA ITN</b></sub>
 </td>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100"/><br>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="110"/><br>
 <sub><b>CCNA ENSA</b></sub>
-</td>
-<td align="center" width="16.6%">
-<img src="https://images.credly.com/size/340x340/images/58c6a1ff-4788-4be9-a71e-7643ec7d72e8/2ccb2ec4-fc30-4498-abef-1d1c05637fab.png" width="100"/><br>
-<sub><b>Certificação</b></sub>
 </td>
 </tr>
 </table>
@@ -80,16 +76,6 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,vmware,docker,linux&theme=dark" height="70"/>
 </p>
-
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br><sub><b>Python</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" width="45"/><br><sub><b>VMware</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br><sub><b>Docker</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br><sub><b>Linux</b></sub></td>
-</tr>
-</table>
 
 ### 🌐 Especialidades de Rede
 
@@ -111,7 +97,7 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ConceicaoD10&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ConceicaoD10&show_icons=true&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConceicaoD10&layout=compact&theme=radical&hide_border=true" width="30%"/>
 
 <br>
@@ -120,7 +106,7 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ConceicaoD10&theme=redical&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ConceicaoD10&theme=react-dark&hide_border=true" width="90%"/>
 
 <br><br>
 
@@ -129,29 +115,6 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
-
-## 📁 Projetos
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Projeto A
-Descrição do projeto A.
-
-**[➜ Ver repositório](COLOQUE_O_LINK_AQUI)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Projeto B
-Descrição do projeto B.
-
-**[➜ Ver repositório](COLOQUE_O_LINK_AQUI)**
-
-</td>
-</tr>
-</table>
 
 ## 📑 Publicações
 
