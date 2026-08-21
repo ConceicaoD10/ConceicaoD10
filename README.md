@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Danilo%20Conceição&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Especialista%20em%20Infraestrutura%20de%20Redes%20e%20Segurança&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/danilo-conceição/" target="_blank">
-<img src="https://raw.githubusercontent.com/ConceicaoD10/ConceicaoD10/main/IMG-20260221-WA0062.jpg" width="230" height="230" style="border-radius:50%;border:5px solid #2C5364;object-fit:cover;" alt="Danilo Conceição"/>
+<img src="https://raw.githubusercontent.com/ConceicaoD10/ConceicaoD10/main/IMG-20260221-WA0062.jpg" width="180" alt="Danilo Conceição" style="border-radius:8px;"/>
 </a>
 
 <br><br>
@@ -37,6 +37,19 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
+## 👤 Sobre Mim
+
+Sou especialista em **Infraestrutura de Redes e Segurança**, com formação sólida em roteamento, comutação e proteção de ambientes corporativos. Trabalho construindo redes mais robustas, seguras e escaláveis, sempre com foco em boas práticas de mercado e automação de processos.
+
+Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar minha atuação em arquiteturas de rede modernas e definidas por software.
+
+- 🔭 Focado atualmente em obter a certificação **SD-WAN**
+- 🌱 Aprendendo continuamente sobre automação de redes com **Python**
+- 🛡️ Interesse principal em segurança de perímetro e infraestrutura corporativa
+- 💬 Disponível para trocar ideias sobre redes, segurança e infraestrutura
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
@@ -118,9 +131,13 @@ Sempre buscando aplicar as melhores práticas para garantir redes mais seguras e
 
 ## 📑 Publicações
 
-- **[Artigo sobre Redes Avançadas](COLOQUE_O_LINK_AQUI)** — Discussão sobre protocolos avançados de redes.
+- **Artigo sobre Redes Avançadas** — Discussão sobre protocolos avançados de redes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
+## 🤝 Vamos Conversar?
+
+Estou sempre aberto a trocar ideias sobre redes, segurança e infraestrutura, ou discutir novas oportunidades. Sinta-se à vontade para entrar em contato por qualquer um dos canais acima.
 
 ## ⚡ Fun Fact
 
