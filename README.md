@@ -106,20 +106,56 @@ Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 📈 Estatísticas do GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ConceicaoD10&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConceicaoD10&layout=compact&theme=radical&hide_border=true" width="30%"/>
+<img src="https://img.shields.io/github/followers/ConceicaoD10?style=for-the-badge&logo=github&color=2C5364&labelColor=0F2027&label=Seguidores"/>
+<img src="https://img.shields.io/badge/Repositórios-11-2C5364?style=for-the-badge&logo=github&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/Base-Maputo%2C%20Moçambique-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F2027"/>
 
-<br>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=ConceicaoD10&theme=radical&hide_border=true" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-<br><br>
+## 🔥 Repositórios em Destaque
 
-<img src="https://github-profile-trophy.vercel.app/?username=ConceicaoD10&theme=radical&no-frame=true&row=1&column=7"/>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Cisco SD-WAN Lab](https://github.com/ConceicaoD10/Cisco-SD-WAN-Lab-Configura-o-e-Pol-ticas-Avan-adas)
+Configuração e políticas avançadas — progresso da jornada de aprendizado em Cisco SD-WAN.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [VPN IPsec sobre MPLS](https://github.com/ConceicaoD10/Implementa-o-de-VPN-IPsec-sobre-MPLS-com-Roteamento-Din-mico-e-Alta-Disponibilidade)
+Laboratório simulando infraestrutura corporativa combinando VPN IPsec e MPLS com alta disponibilidade.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Cisco ACI — Configuração Básica](https://github.com/ConceicaoD10/-Configura-o-B-sica-e-Implementa-o-do-Cisco-ACI)
+Configuração inicial e implementação do Cisco Application Centric Infrastructure (ACI).
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [BGP Best Path Selection](https://github.com/ConceicaoD10/BGP-Best-Path-Selection)
+Laboratório prático sobre o algoritmo de seleção de melhor caminho do BGP.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ConceicaoD10?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -133,7 +169,8 @@ Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar
 
 ## 🤝 Vamos Conversar?
 
-Estou sempre aberto a trocar ideias sobre redes, segurança e infraestrutura, ou discutir novas oportunidades. Sinta-se à vontade para entrar em contato por qualquer um dos canais acima.
+> [!TIP]
+> Estou sempre aberto a trocar ideias sobre redes, segurança e infraestrutura, ou discutir novas oportunidades. Sinta-se à vontade para entrar em contato por qualquer um dos canais acima.
 
 ## ⚡ Fun Fact
 
