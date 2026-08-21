@@ -115,7 +115,7 @@ Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceicaoD10&theme=radical&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ConceicaoD10&theme=radical&hide_border=true" width="49%"/>
 
 <br><br>
 
