@@ -117,10 +117,6 @@ Atualmente estou aprofundando meus conhecimentos em **SD-WAN**, buscando ampliar
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceicaoD10&theme=radical&hide_border=true" width="49%"/>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ConceicaoD10&theme=react-dark&hide_border=true" width="90%"/>
-
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ConceicaoD10&theme=radical&no-frame=true&row=1&column=7"/>
