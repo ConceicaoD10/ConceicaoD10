@@ -57,25 +57,9 @@ Certificado **Cisco CCNA Automation (DevNet Associate)**, com forte interesse em
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/8b0ca811-bd98-4083-ba50-512ab9f6262b/CCNPENCOR__1_.png" width="110"/><br>
-<sub><b>CCNP ENCOR</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/3bb1a127-e4e4-47ac-b83f-6a9fbf343f00/CCNP_ENARSI.png" width="110"/><br>
-<sub><b>CCNP ENARSI</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="110"/><br>
-<sub><b>CCNA SRWE</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110"/><br>
-<sub><b>CCNA ITN</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="110"/><br>
-<sub><b>CCNA ENSA</b></sub>
+<td align="center" width="100%">
+<img src="https://images.credly.com/size/340x340/COLE_O_LINK_DA_IMAGEM_DO_BADGE_AQUI.png" width="140"/><br>
+<sub><b>CCNA Automation (DevNet Associate)</b></sub>
 </td>
 </tr>
 </table>
