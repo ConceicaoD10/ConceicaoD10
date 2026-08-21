@@ -55,12 +55,16 @@ Certificado **Cisco CCNA Automation (DevNet Associate)**, com forte interesse em
 
 ## 📚 Certificações
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://images.credly.com/size/340x340/images/8b0ca811-bd98-4083-ba50-512ab9f6262b/CCNPENCOR__1_.png" height="80" style="margin-right: 10px;">
-  <img src="https://images.credly.com/size/340x340/images/3bb1a127-e4e4-47ac-b83f-6a9fbf343f00/CCNP_ENARSI.png" height="80" style="margin-right: 10px;">
-  <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" height="80" style="margin-right: 10px;">
-  <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height="80" style="margin-right: 10px;">
-  <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" height="80">
+<div align="center">
+
+<a href="https://www.credly.com/badges/1e8ff048-6740-450b-8eb1-428292af666e/public_url" target="_blank">
+<img src="https://images.credly.com/images/6226d25d-d002-4de7-92bc-4263b44483b5/linkedin_thumb_blob" height="150">
+</a>
+
+<br>
+
+<sub><b>CCNA Automation</b> — Cisco</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
